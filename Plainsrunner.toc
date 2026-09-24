@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: |cffffd100Plainsrunner|r
+## Notes: Blizzard-native HUD tracker for the Tauren Plainsrunning racial in WoW: Forever Beta. Tracks stack progression, decay countdown, and hit vulnerability.
+## Author: Meudayr
+## Version: 1.0.1
+## IconTexture: 236717
+## SavedVariables: PlainsrunnerDB
+## X-Curse-Project-ID: 1707412
+
+UI.lua
+Core.lua
